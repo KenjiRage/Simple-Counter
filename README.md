@@ -1,8 +1,8 @@
-# Contador de segundos
-
+# Simple Counter
 ## Descripción
 
-Contador que cuenta cada segundo desde que se carga la página. Realizado utilizando React.js (Tarea día 12 PM)
+Proyecto realizado para 4Geeks Academy España, como parte del curso Full Stack Developer
+
 
 ## Vista Previa
 
